@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="introText">Hello! This is an image of dog.</string>
+    <string name="buttonText">Say Hello!</string>
+</resources>
